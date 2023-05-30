@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+RedSoft Blockchain_task
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+sepolia testnet Link of deployed contract : https://sepolia.etherscan.io/tx/0xdc132e8b5236083e7b52a82f891f90ee72cd1b388019628640706b54cfdda5c5
